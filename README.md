@@ -5,8 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-Aspiring cybersecurity analyst with a strong foundation in computer engineering, seeking an entry-level position to leverage my problem-solving skills, determination, and research abilities. Eager to contribute to a dynamic team by identifying vulnerabilities, implementing security measures, and ensuring the integrity of information systems. Committed to continuous learning and staying updated with the latest cybersecurity trends and technologies.
-
+I am an aspiring cybersecurity analyst with a solid foundation in computer engineering, seeking an entry-level position to utilize my problem-solving skills, determination, and research abilities. I am eager to contribute to a dynamic team by identifying vulnerabilities, implementing security measures, and ensuring the integrity of information systems. I am committed to continuous learning and staying updated with the latest cybersecurity trends and technologies.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
